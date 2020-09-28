@@ -1,0 +1,6 @@
+D:\y\helloword\helloword\bin\Debug\helloword.exe.config
+D:\y\helloword\helloword\bin\Debug\helloword.exe
+D:\y\helloword\helloword\bin\Debug\helloword.pdb
+D:\y\helloword\helloword\obj\Debug\helloword.csprojResolveAssemblyReference.cache
+D:\y\helloword\helloword\obj\Debug\helloword.exe
+D:\y\helloword\helloword\obj\Debug\helloword.pdb
